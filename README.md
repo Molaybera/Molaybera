@@ -5,13 +5,13 @@ Make life easier with a few lines of code💻!
 
 
 ## 🚀 About Me
-👨‍💻 Coder & Problem Solver 🔢
+👨‍💻 Coder & Problem Solver 🔢<br>
 I love building projects, solving problems and I’m always pushing myself to learn and improve.
 
-📸 Content Creator & Video Editor 🎬
+📸 Content Creator & Video Editor 🎬<br>
 I also enjoy creating content and editing videos. I’ve won awards for my work, and it’s something I love doing along side-by-side.
 
-🏋️ Fitness & Leadership 💪
+🏋️ Fitness & Leadership 💪<br>
 When I’m not coding, you can find me at the gym or working on my skills. Always looking for ways to grow and improve.
 
 
