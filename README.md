@@ -14,7 +14,7 @@ I also enjoy creating content and editing videos. I’ve won awards for my work,
 🏋️ Fitness & Leadership 💪<br>
 When I’m not coding, you can find me at the gym or working on my skills. Always looking for ways to grow and improve.
 
-
+<hr>
 # Hi, I'm Malay! 👋
 
 
