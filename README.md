@@ -23,7 +23,7 @@ When I’m not coding, you can find me at the gym or working on my skills. Alway
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molay-bera299/)
 
-[![instragram](https://img.shields.io/badge/instragram-F21D1D?style=for-the-badge&logo=instragram&logoColor=white)](https://twitter.com/)
+[![instragram](https://img.shields.io/badge/instragram-F21D1D?style=for-the-badge&logo=instragram&logoColor=white)](https://www.instagram.com/molay_bera1/)
 
 
 ## Other Profile 
