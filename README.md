@@ -23,13 +23,13 @@ When I’m not coding, you can find me at the gym or working on my skills. Alway
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molay-bera299/)
 
-[![instragram](https://img.shields.io/badge/instragram-F21D1D?style=for-the-badge&logo=instragram&logoColor=white)](https://www.instagram.com/molay_bera_11/)
+[![instragram](https://img.shields.io/badge/instragram-F21D1D?style=for-the-badge&logo=instragram&logoColor=white)](https://www.instagram.com/malay_bera_01/)
 
 
 ## Other Profile 
-👩‍💻 I'm currently Studing Computer Science
+👩‍💻 I'm a Computer Science Student
 
-🧠 I'm currently learning data Science & machine learning
+🧠 I'm currently learning Cybersecurity
 
 📫 mail : molaybera299@gmail.com
 
